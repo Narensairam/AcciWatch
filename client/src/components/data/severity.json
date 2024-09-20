@@ -1,0 +1,19 @@
+[
+    {
+      "label": "Grievous Injury",
+      "value": 128846
+    },
+    {
+      "label": "Simple Injury",
+      "value": 70954
+    },
+    {
+      "label": "Fatal",
+      "value": 68604
+    },
+    {
+      "label": "Damage only",
+      "value": 24607
+    }
+  ]
+  
